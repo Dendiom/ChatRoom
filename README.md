@@ -8,10 +8,10 @@
 - 客户端有断开重连机制
 
 ## 启动
-###启动服务器
+### 1:启动服务器
 - 根据实际情况修改 *resources/server.properties* 下的配置文件
 - 运行文件 *main/ServerStart.java*
-###启动客户端
+### 2:启动客户端
 - 根据实际情况修改 *resources/client.properties* 下的配置文件
 - 运行文件 *main/ClientStart.java* (运行多次则启动多个客户端)
 
